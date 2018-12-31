@@ -10,6 +10,8 @@ Please open capstoneV2.ipynb in Jupyter Notebook from top to bottom, skipping tr
 
 Python 3.+ required
 
+
+
 Use ``pip install (libraryname)`` if you do not have the libraries below:
 
 * numpy
